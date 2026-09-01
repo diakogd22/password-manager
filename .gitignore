@@ -1,0 +1,20 @@
+# Sensitive data
+data/key.key
+data/master.hash
+data/password.txt
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
