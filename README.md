@@ -94,24 +94,6 @@ python main.py
 
 On the first run, the application will generate the encryption key and ask you to create a Master Password.
 
-## 🎮 Usage
-
-After logging in, the application provides the following options:
-
-```text
-╔══════════════════════════════╗
-║       PASSWORD MANAGER       ║
-╠══════════════════════════════╣
-║  1. Add Password             ║
-║  2. View Passwords           ║
-║  3. Search Password          ║
-║  4. Delete Password          ║
-║  5. Edit Password            ║
-║  6. Generate Password        ║
-║  7. Exit                     ║
-╚══════════════════════════════╝
-```
-
 ## 🔐 Security
 
 Passwords stored by the application are encrypted using Fernet symmetric encryption.
@@ -164,7 +146,3 @@ Possible future features:
 ## 👨‍💻 Author
 
 Diako Goodarzi
-
----
-
-⭐ If you found this project useful, feel free to star the repository.
