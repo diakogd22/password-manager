@@ -142,7 +142,3 @@ Possible future features:
 * Unit tests
 * More advanced authentication
 * Improved error handling
-
-## 👨‍💻 Author
-
-Diako Goodarzi
